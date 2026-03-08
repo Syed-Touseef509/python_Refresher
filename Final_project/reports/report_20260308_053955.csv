@@ -1,0 +1,5 @@
+ID,Name,Grade,Failed,Late Fine
+1,Alice,85,False,0
+2,Bob,35,True,10
+3,Charlie,60,False,0
+4,Diana,20,True,25

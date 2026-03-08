@@ -1,0 +1,10 @@
+INFO: User logged in
+WARNING: Disk space low
+ERROR: Database connection failed
+INFO: Request received
+CRITICAL: Server crashed
+ERROR: Timeout occurred
+INFO: Processing request
+CRITICAL: Memory overflow
+WARNING: CPU high
+ERROR: File not found
